@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.86f858cf.css",
+    "main.js": "/portfolio/static/js/main.c2810be1.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/AlegreyaSC-Regular.ttf": "/portfolio/static/media/AlegreyaSC-Regular.61ffb5f2a8bc55d9e771.ttf",
+    "static/media/Stahlbetontraeger-Stripes.ttf": "/portfolio/static/media/Stahlbetontraeger-Stripes.aac1869e1f39f2a1d422.ttf",
+    "static/media/anchorman.jpg": "/portfolio/static/media/anchorman.82295d707eab878e40df.jpg",
+    "static/media/d20 attack comparison.jpg": "/portfolio/static/media/d20 attack comparison.13004368e5b16c962769.jpg",
+    "static/media/Oswald-Regular.ttf": "/portfolio/static/media/Oswald-Regular.19286529c18bfb11f802.ttf",
+    "static/media/keyfinder.jpg": "/portfolio/static/media/keyfinder.16807a0d155a61408fdc.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.86f858cf.css.map": "/portfolio/static/css/main.86f858cf.css.map",
+    "main.c2810be1.js.map": "/portfolio/static/js/main.c2810be1.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86f858cf.css",
+    "static/js/main.c2810be1.js"
+  ]
+}
